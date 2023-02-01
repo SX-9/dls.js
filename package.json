@@ -1,0 +1,16 @@
+{
+  "name": "dls.js",
+  "version": "1.0.0",
+  "description": "Digital Logic Sim In JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "digital",
+    "logic",
+    "sim"
+  ],
+  "author": "sx9dev",
+  "license": "ISC"
+}
